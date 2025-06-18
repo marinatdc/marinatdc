@@ -4,7 +4,7 @@
 
 <ul>
   <li> 🗂️ I prioritize organization to ensure clean, structured, and maintainable code. </li>
-  <li> 👩🏻‍💻 Currently studying <strong>JavaScript</strong> and <strong>Python</strong> for web development </li>
+  <li> 👩🏻‍💻 I’m a Software Engineering student at UniRitter, focused on web and mobile development. I'm currently seeking my first opportunity in the tech field. At the moment, I’m working on a hands-on project with Horizon, using React Native with Expo and exploring various libraries. I’m a dedicated, organized, and tech-driven individual, constantly learning through courses and personal projects. I’m ready to take on challenges and contribute with creative and efficient solutions in software development. </li>
 </ul>
 
 ## Skills & Technologies
