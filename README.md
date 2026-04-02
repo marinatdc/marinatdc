@@ -1,10 +1,13 @@
 ## Hi there, I'm Marina Terra👋
 
 **Software engineering** student
+🎯 Looking for my first opportunity as a Front-end Developer intern
 
 <ul>
-  <li> 🗂️ I prioritize organization to ensure clean, structured, and maintainable code. </li>
-  <li> 👩🏻‍💻 I’m a Software Engineering student at UniRitter, focused on web and mobile development. I'm currently seeking my first opportunity in the tech field. At the moment, I’m working on a hands-on project with Horizon, using React Native with Expo and exploring various libraries. I’m a dedicated, organized, and tech-driven individual, constantly learning through courses and personal projects. I’m ready to take on challenges and contribute with creative and efficient solutions in software development. </li>
+  <li> 💻 Software Engineering student at UniRitter (7th semester). </li>
+  <li> 📱 Focused on Front-end and mobile development (React & React Native). </li>
+  <li> 🚀 Currently building a hands-on project using Expo </li>
+  <li> 📚 Always learning through courses and personal projects </li>
 </ul>
 
 ## Skills & Technologies
